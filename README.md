@@ -1,7 +1,7 @@
-# Hackathon Hi Paris - 5ème Édition
+# Hackathon Hi Paris - 5th Edition
 
-Ce dépôt contient notre projet réalisé dans le cadre de la **5ème édition du Hackathon Hi Paris**, organisé en **Novembre 2024**.  
-Nous avons participé avec une équipe composée de :
+This repository contains our project developed during the **5th edition of the Hi Paris Hackathon**, held in **November 2024**.  
+We participated as a team composed of:
 - **Mila Marsot**
 - **Marceau Leclerc**
 - **Massyl Adjal**
@@ -10,27 +10,33 @@ Nous avons participé avec une équipe composée de :
 
 ---
 
-## Performance de l’équipe 🏆
-- 🥈 **2ème place** sur 60 équipes participantes.
+## Hackathon Topic 🌍
+The challenge was to **predict groundwater table levels** using a dataset containing over 100 variables.  
+The goal was to design a high-performing model to anticipate fluctuations in groundwater resources, a critical issue in the context of climate change.
 
 ---
 
-## Contenu du dépôt 📂
-- **`Leaderboard_2_Group_23.ipynb`** :  
-  Ce notebook contient le code final utilisé pour entraîner et valider notre modèle. Vous y trouverez :
-  - La préparation des données.
-  - Les étapes de prétraitement.
-  - Les entraînements et évaluations du modèle.
-  - Les résultats finaux obtenus.
+## Team Performance 🏆
+- 🥈 **2nd place** out of 60 participating teams.
 
 ---
 
-## Liens utiles 🔗
-- **Lien officiel du Hackathon GitHub** :  
+## Repository Content 📂
+- **`Leaderboard_2_Group_23.ipynb`**:  
+  This notebook contains the final code used to train and validate our model. It includes:
+  - Data preparation.
+  - Preprocessing steps.
+  - Model training and evaluation.
+  - Final results obtained.
+
+---
+
+## Useful Links 🔗
+- **Official Hackathon GitHub repository**:  
   [https://github.com/hi-paris/Hickathon5.git](https://github.com/hi-paris/Hickathon5.git)
 
 ---
 
-## Photo de l'équipe 📸
-Voici une photo de notre équipe lors de la 5ème édition du Hackathon Hi Paris :  
+## Team Photo 📸
+Here is a photo of our team during the 5th edition of the Hi Paris Hackathon:  
 ![Hackathon Team Photo](photo_hackathon.jpeg)
