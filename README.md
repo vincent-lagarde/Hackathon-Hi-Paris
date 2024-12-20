@@ -38,5 +38,5 @@ The goal was to design a high-performing model to anticipate fluctuations in gro
 ---
 
 ## Team Photo 📸
-Here is a photo of our team during the 5th edition of the Hi Paris Hackathon:  
+Here is a photo of our beautiful team !
 ![Hackathon Team Photo](photo_hackathon.jpeg)
